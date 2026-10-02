@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+
+# Extracted game data (huge, not for version control)
+_gd_extract/
+Extract Game Files/
+
+# Local archives/backups
+_archives/
+
+# VS Code
+.vscode/

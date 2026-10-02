@@ -1,0 +1,4 @@
+tagStarterGodSword=天击之刃
+tagStarterGodSwordDesc=锻造于凯恩黎明之时的利刃，蕴含着天穹的怒火。每一次挥击都会从天空引落一道雷霆。
+tagItemSkillHeavenStrikeName=天击
+tagItemSkillHeavenStrikeDesc=从天空召唤一道炽烈的雷霆，轰击你的敌人。

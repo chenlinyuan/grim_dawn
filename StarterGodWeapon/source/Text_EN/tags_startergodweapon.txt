@@ -1,0 +1,4 @@
+tagStarterGodSword=Heaven's Bane
+tagStarterGodSwordDesc=A blade forged at the dawn of Cairn, humming with the fury of the heavens. Every strike calls a thunderbolt down from the sky.
+tagItemSkillHeavenStrikeName=Heaven Strike
+tagItemSkillHeavenStrikeDesc=Call a searing thunderbolt down from the sky to smite your enemy.
