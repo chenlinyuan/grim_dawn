@@ -1,4 +1,6 @@
-tagStarterGodSword=Heaven's Bane
-tagStarterGodSwordDesc=A blade forged at the dawn of Cairn. Unleashes a nova of lightning around the wielder, shattering nearby foes.
+tagSoulRing=Soul Ring
+tagSoulRingDesc=A legendary ring forged from soul essence. Swift as the wind, it draws on the world's energy and erupts a lightning nova on attack.
+tagSoulRingSetName=Soul Ring
+tagSoulRingSetDesc=Soul Ring (Unique)
 tagItemSkillHeavenStrikeName=Heaven Strike (Lightning Nova)
 tagItemSkillHeavenStrikeDesc=Detonate a ring of lightning around yourself, striking all nearby enemies.

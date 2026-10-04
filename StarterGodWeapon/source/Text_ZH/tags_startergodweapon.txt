@@ -1,4 +1,6 @@
-tagStarterGodSword=天击之刃
-tagStarterGodSwordDesc=锻造于凯恩黎明之时的利刃，蕴含天穹的怒火。以持有者为中心爆发出雷电新星，粉碎周围的敌人。
+tagSoulRing=灵魂暗戒
+tagSoulRingDesc=以灵魂之力锻造的暗金戒指。佩戴者身轻如燕，汲取天地灵气，攻击时爆发雷电新星。
+tagSoulRingSetName=灵魂暗戒
+tagSoulRingSetDesc=灵魂暗戒（唯一）
 tagItemSkillHeavenStrikeName=天击·雷电新星
 tagItemSkillHeavenStrikeDesc=以自身为中心爆发一圈雷电新星，轰击周围所有敌人。

@@ -1,7 +1,7 @@
 templateName,database/templates/fixeditemloot.tpl,
 loot1Chance,1000.000000;1000.000000;1000.000000;1000.000000;1000.000000;1000.000000;1000.000000;1000.000000,
 loot1Name1,records/items/loottables/mastertables/mt_hu_miscnoshoulders_a01.dbr,
-loot1Name2,records/items/gearweapons/swords1h/item_startergodsword.dbr,
+loot1Name2,records/items/gearaccessories/rings/soul_ring.dbr,
 loot1Weight1,100,
 loot1Weight2,100,
 loot1Weight3,0,

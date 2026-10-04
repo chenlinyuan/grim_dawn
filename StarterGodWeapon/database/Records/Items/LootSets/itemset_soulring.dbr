@@ -1,0 +1,7 @@
+templateName,database/templates/itemset.tpl,
+FileDescription,Soul Ring Set,
+itemLevel,1,
+setDescription,tagSoulRingSetDesc,
+setMembers,records/items/gearaccessories/rings/soul_ring.dbr,
+setName,tagSoulRingSetName,
+setSize,1,
