@@ -1,6 +1,6 @@
 tagSoulRing=Soul Ring
-tagSoulRingDesc=A legendary ring forged from soul essence. Swift as the wind, it draws on the world's energy and erupts a lightning nova on attack.
+tagSoulRingDesc=A legendary ring forged from soul essence. Swift as the wind, it calls down Heaven Strike on attack.
 tagSoulRingSetName=Soul Ring
 tagSoulRingSetDesc=Soul Ring (Unique)
-tagItemSkillHeavenStrikeName=Heaven Strike (Lightning Nova)
-tagItemSkillHeavenStrikeDesc=Detonate a ring of lightning around yourself, striking all nearby enemies.
+tagItemSkillHeavenStrikeName=Heaven Strike
+tagItemSkillHeavenStrikeDesc=Call down a thunderbolt, dealing weapon damage (scaled by Strength) to nearby enemies.
